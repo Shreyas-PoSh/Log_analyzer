@@ -4,8 +4,8 @@ Store sensitive information like API keys here.
 """
 
 # --- API Configuration ---
-VT_API_KEY = "3472fa7b0ce0424c92346231c1628206a2c266775abdd0880c4815ecf77218dc"  # Replace with your VT API key
-OTX_API_KEY = "14ba61bde6ce3312f5c9dbe3af7609784e41734c2fb527b2ecd0aa6e5221b553"  # Replace with your OTX API key
+VT_API_KEY = "Virus_total_API_Key"  # Replace with your VT API key
+OTX_API_KEY = "Alien_Valut_OTX_API_Key"  # Replace with your OTX API key
 
 # --- Threat Intel Endpoints ---
 VT_BASE_URL = "https://www.virustotal.com/api/v3"
