@@ -1,0 +1,72 @@
+{
+    "original_email_file": "sample_emails/bad6.eml",
+    "summary": {
+        "total_risk_score": 30,
+        "risk_level": "Medium",
+        "total_iocs_found": 6
+    },
+    "details": {
+        "urls": {
+            "items_found": [
+                "http://185.215.113.39/paypal/login.php"
+            ],
+            "details": {
+                "http://185.215.113.39/paypal/login.php": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                }
+            },
+            "category_risk_score": 0
+        },
+        "domains": {
+            "items_found": [
+                "185.215.113.39",
+                "paypal.com.security-verification-1234567890.info",
+                "anywhere.com",
+                "login.php"
+            ],
+            "details": {
+                "185.215.113.39": {
+                    "virustotal_score": 15,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 15
+                },
+                "paypal.com.security-verification-1234567890.info": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                },
+                "anywhere.com": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                },
+                "login.php": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                }
+            },
+            "category_risk_score": 15
+        },
+        "ips": {
+            "items_found": [
+                "185.215.113.39"
+            ],
+            "details": {
+                "185.215.113.39": {
+                    "virustotal_score": 15,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 15
+                }
+            },
+            "category_risk_score": 15
+        },
+        "attachments": {
+            "items_found": [],
+            "details": {},
+            "category_risk_score": 0
+        }
+    }
+}

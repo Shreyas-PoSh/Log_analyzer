@@ -1,0 +1,13 @@
+From: amazon-delivery@packages-tracking.com
+To: shopper@retail.com
+Subject: Delivery Failed - Package Awaiting Collection
+Date: Thu, 04 Jun 2026 17:45:00 +0000
+Content-Type: text/plain; charset="UTF-8"
+
+Delivery Notification
+
+Your package could not be delivered. Click the link below to schedule a new delivery time and avoid additional fees.
+Track Package: https://packages-tracking.com/amazon/delivery-status?id=987654321
+Suspicious activity detected from IP: 198.51.100.25
+Amazon Logistics
+Attachments: delivery_form.pdf

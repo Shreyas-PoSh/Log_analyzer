@@ -1,0 +1,14 @@
+From: billing@service.com
+To: user@home.com
+Subject: Invoice #INV-12345
+Date: Thu, 04 Jun 2026 11:30:00 +0000
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+Your invoice is ready. Please review and pay within 30 days.
+Invoice link: https://billing.service.com/invoice/INV-12345
+Contact us at support@service.com if you have questions.
+Attachments: invoice_12345.pdf
+Thanks,
+Billing Department

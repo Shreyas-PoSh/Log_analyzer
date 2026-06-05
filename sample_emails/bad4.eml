@@ -1,0 +1,18 @@
+From: bank-security@fake-bank.com
+To: customer@realbank-user.com
+Subject: Unauthorized Login Attempt - Secure Your Account NOW
+Date: Thu, 04 Jun 2026 19:00:00 +0000
+Content-Type: text/plain; charset="UTF-8"
+
+SECURITY ALERT
+
+An unauthorized login attempt was made to your account from a new device/location.
+Login Details:
+Time: 2026-06-04 18:59:59
+IP Address: 192.0.2.100
+Location: Unknown
+To prevent further access, log in and confirm this activity or change your password.
+Secure My Account: https://fake-bank.com/secure-login
+Your account will be locked if no action is taken within 1 hour.
+FakeBank Security
+Attachments: security_log.html

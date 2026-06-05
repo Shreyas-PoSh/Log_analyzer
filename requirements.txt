@@ -1,0 +1,4 @@
+requests>=2.28.0
+python-magic>=0.4.27  # Optional, for attachment type detection
+# pyyaml>=6.0         # Uncomment if you plan to use YAML config later
+# validators>=0.20.0  # Uncomment if you plan to add URL validation

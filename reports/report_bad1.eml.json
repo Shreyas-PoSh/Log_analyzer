@@ -1,0 +1,66 @@
+{
+    "original_email_file": "sample_emails/bad1.eml",
+    "summary": {
+        "total_risk_score": 0,
+        "risk_level": "Low",
+        "total_iocs_found": 5
+    },
+    "details": {
+        "urls": {
+            "items_found": [
+                "http://paypal-security-checkup.lnk.to/verify-now"
+            ],
+            "details": {
+                "http://paypal-security-checkup.lnk.to/verify-now": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                }
+            },
+            "category_risk_score": 0
+        },
+        "domains": {
+            "items_found": [
+                "paypal-security-checkup.lnk.to",
+                "paypal-security-center.com",
+                "anywhere.com"
+            ],
+            "details": {
+                "paypal-security-checkup.lnk.to": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                },
+                "paypal-security-center.com": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                },
+                "anywhere.com": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                }
+            },
+            "category_risk_score": 0
+        },
+        "ips": {
+            "items_found": [
+                "103.76.106.250"
+            ],
+            "details": {
+                "103.76.106.250": {
+                    "virustotal_score": 0,
+                    "otx_pulse_count": 0,
+                    "combined_risk_score": 0
+                }
+            },
+            "category_risk_score": 0
+        },
+        "attachments": {
+            "items_found": [],
+            "details": {},
+            "category_risk_score": 0
+        }
+    }
+}
