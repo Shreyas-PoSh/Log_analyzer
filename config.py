@@ -1,7 +1,4 @@
-"""
-Configuration file for the Phishing Email Analyzer.
-Store sensitive information like API keys here.
-"""
+# Add necessary details over here as the main "Analyzer.py" will use data from here and also for storing the reports and to access the sample emails
 
 # --- API Configuration ---
 VT_API_KEY = "Virus_total_API_Key"  # Replace with your VT API key
